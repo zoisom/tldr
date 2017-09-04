@@ -12,5 +12,4 @@
 
 - yes syntax :
 
-`yes {{string}}` <br>
-`yes {{option}}`
+`yes {{string}}`
