@@ -10,6 +10,6 @@
 
 `zipcloak {{archive_original.zip}} -O {{archive_new.zip}}`
 
-- Encrypts files:
+- Encrypts contents:
 
-`zipcloak {{archive.zip}}
+`zipcloak {{archive.zip}}`
