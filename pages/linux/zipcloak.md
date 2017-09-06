@@ -2,7 +2,7 @@
 
 > The encrypts files in an existing zip archive.
 
-- Encrypts the contents so that only root users can extract the contents:
+- Wants to encrypts its contents:
 
 `zipcloak {{archive.zip}}`
 
