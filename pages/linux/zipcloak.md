@@ -9,5 +9,3 @@
 - Eject encrypts archive into new file:
 
 `zipcloak {{archive_original.zip}} -O {{archive_new.zip}}`
-
-
