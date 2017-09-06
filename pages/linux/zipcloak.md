@@ -2,7 +2,7 @@
 
 > The encrypts files in an existing zip archive.
 
-- Wants to encrypts its contents:
+- Encrypts files:
 
 `zipcloak {{archive.zip}}`
 
