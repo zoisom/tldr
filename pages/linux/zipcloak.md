@@ -13,4 +13,3 @@
 - Encrypt file:
 
 `zipcloak {{archive.zip}}`
-
